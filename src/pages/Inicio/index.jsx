@@ -1,7 +1,8 @@
+import Cabecalho from "components/Cabecalho";
 
 
 export default function Inicio() {
   return (
-    <div>Inicio</div>
+    <Cabecalho />
   )
 }
